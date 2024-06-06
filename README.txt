@@ -78,7 +78,6 @@ Navigated to URL to check if it worked :)
 
 14:15
 Moved with next part
-
 2024-06-05
 
 Started with part 8
